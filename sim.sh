@@ -293,9 +293,9 @@ sleep 10
 
 echo ".[ok] .........Hacked 23 afg" | lolcat
 
-sleep 
+sleep 5
 echo "Campleted reward the all belance "
 echo " Enter youer phone number" | lolcat
 echo "+93 (0) "
-sleep 10
+sleep 20
 echo " ✅✅ Tanks for use thes all credit is entered youer sim plese check new belanse " | lolcat
