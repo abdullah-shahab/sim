@@ -82,7 +82,7 @@ echo " [3] Awcc " | lolcat
 echo " [4] Salaam " | lolcat
 echo " [5] Roshan " | lolcat
 
-sleep 5
+sleep 20
 echo " Plese with... " | lolcat
 sleep 5
 clear
