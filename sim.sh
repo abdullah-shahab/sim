@@ -101,7 +101,7 @@ sleep 2
 clear
 figlet -f big  Farzad | lolcat
 
-echo"●●●●●●●●●●●●●●●● " | lolcat
+echo "●●●●●●●●●●●●●●●● " | lolcat
 echo "..10 %" | lolcat
 sleep 2
 echo ".......30 %" | lolcat
